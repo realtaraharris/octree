@@ -1,5 +1,5 @@
 {
-  "name": "octree",
+  "name": "simple-octree",
   "version": "1.0.0",
   "description": "simple matrix-based octree",
   "main": "octree.js",
