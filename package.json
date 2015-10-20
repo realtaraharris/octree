@@ -1,0 +1,29 @@
+{
+  "name": "octree",
+  "version": "1.0.0",
+  "description": "simple matrix-based octree",
+  "main": "octree.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxharris9/octree.git"
+  },
+  "keywords": [
+    "octree",
+    "MX"
+  ],
+  "author": "Max Harris <harris.max@gmail.com> (http://xyzzy.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maxharris9/octree/issues"
+  },
+  "homepage": "https://github.com/maxharris9/octree#readme",
+  "devDependencies": {
+    "tape": "^4.2.1"
+  },
+  "dependencies": {
+    "octify-aabb": "^1.0.1"
+  }
+}
